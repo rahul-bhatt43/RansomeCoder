@@ -1,2 +1,5 @@
 # RansomeCoder
-In this repository i have mentioned how to customize the obstacle blocking in the chrome's dragon game 
+# In this repository i have mentioned how to customize the obstacle blocking in the chrome's dragon game 
+
+Runner.instance_.gameOver = () => {}
+() => {}
